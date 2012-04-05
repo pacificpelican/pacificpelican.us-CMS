@@ -1,7 +1,5 @@
-This README.md is for the GitHub top level directory. Below is same content as in the readme.txt for pacificpelican.us CMS:
-
-readme.txt for pacificpelican.us/cms
-version: 0.0.9.9.3
+readme.txt for [pacificpelican.us/cms](http://pacificpelican.us/cms)
+version: 0.0.9.9.3 [on GitHub]
 Oct. 26, 2011
 by [Daniel J. McKeown](http://djmcloud.com)
 
