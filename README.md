@@ -1,4 +1,4 @@
-pacificpelican.us/cms is a simple PHP application for use on web servers and is free software; it is currently in beta and is licensed under the GNU GPL, version 2 or later.  Please conduct proper diligence before installing on productions systems.
+pacificpelican.us/cms is a simple PHP application for use on web servers and is free software; it is currently in beta and is licensed under the GNU GPL, version 2 or later.  Please conduct proper diligence before installing on production systems.
 
 Features:
 
