@@ -1,13 +1,21 @@
 pacificpelican.us/cms is a simple PHP application for use on web servers and is free software; it is currently in beta and is licensed under the GNU GPL, version 2 or later.  Please conduct proper diligence before installing on productions systems.
 
 Features:
+
 -creates a web page which automatically names itself in the title and h1 based on the server name
+
 -allows file uploading via HTTP using this web page and a password
+
 -creates a list of the files and links to the raw files or the file's own perma-link page which adds to the title tag the name of the file being shown
+
 -allows URLs to be shortened (the URL shortener functionality requires a small domain name for the web site to be very useful of course) using a password
+
 -creates perma-links for shortened URLs which are listed automatically by the application
+
 -allows creation of text files using a password
+
 -creates perma-links for each text file and a list
+
 -CSS can be adjusted by placing in a style.css using built-in classes and IDs
 
 The instructions for installation of pacificpelican.us cms are contained in the readme.txt document.
